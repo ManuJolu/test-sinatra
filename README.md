@@ -1,3 +1,11 @@
+**Before beginning**
+
+Download project zip file.
+Complete the project with your answers.
+When finished, zip your project, and send it over to @edouardpo on Le Wagon's Slack.
+
+Take your time ! Better have a clean and simple code than a complex and inefficient one
+
 You'll find 3 parts to this test:
 
 **1/ Questions**
@@ -29,3 +37,4 @@ This is a test of your front-end capabilities, as well as your creativity. We wi
 **3/ RoR Essay**
 
 Take a look at essay.txt
+

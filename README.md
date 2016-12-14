@@ -26,8 +26,6 @@ This is a test of your front-end capabilities, as well as your creativity. We wi
 
 - A surprising feature: something we wouldn't have thought about.
 
-Overall, we're just looking for you to surprise us!
-
 **3/ RoR Essay**
 
 Take a look at essay.txt

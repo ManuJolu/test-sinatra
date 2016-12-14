@@ -9,7 +9,7 @@ We want to create an app which lets students take driving lessons with teachers,
 5. The students can book a lesson with a teacher at specific meeting point and datetime, for a specific time.
 6. The teachers can accept or decline lessons bookings.
 
-What models would you create, and what attributes would you give them? Explain your choices.
+Describe the data model you’d use for this app. What are the key models? What are their attributes? How will your code use them?
 
 >
 

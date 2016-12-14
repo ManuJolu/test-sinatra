@@ -1,5 +1,4 @@
-BACKEND - Programming
-These can be done in any language you're comfortable with
+RUBY
 
 1. Give a regular expression that detects hexadecimal numbers in a text.
 For example, ‘0x0f4’, ‘0acdadecf822eeff32aca5830e438cb54aa722e3’, ‘8BADF00D’ should be detected.
@@ -14,7 +13,7 @@ Provide an implementation for ‘f’. Bonus points for a non recursive implemen
 
 >
 
-BACKEND - MySQL
+RoR
 
 1. Write a CREATE TABLE query for a table storing information on users. It will store:
   - id,
@@ -30,13 +29,11 @@ BACKEND - MySQL
 
 >
 
-GENERAL - Creativity
-Si vous êtes Français, vous pouvez répondre en Français.
-
-1. Describe the color yellow to someone who is blind
+3. How would you do to check if a user has signed up (with devise gem) in the last 24 hours and if so redirect this user to "google.fr", before every action of every controller?
 
 >
 
-3. Describe the data model you’d use for a Battleship game. What are the key objects? How will your code use them?
+4. In your app, you have a header in your layout.html.erb. You want for this header a white background on a specific action of a specific controller, and a black background in every other case. How would you do?
 
->
+
+
